@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=6000&lines=Greetings,+fellow+Wanderer!+👋;Kindly+Ignore+My+Digital+Presence+pls+🙈;" />
-</h1>
-
 <h3 align="center">Just For My Enjoyment!🍹 And Please Do Overlook My Presence!💃</h3>
 
 <hr/>
@@ -25,6 +21,9 @@
         <img alt="A tiny worm nibbling on my contributions!" src="https://raw.githubusercontent.com/fryctze/fryctze/output/github-contribution-grid-snake.svg" />
     </picture>
 <br/><br/><br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 <div align="right">
