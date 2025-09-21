@@ -6,9 +6,9 @@
 <p align="center"> Exaggerating (probably) ( •̯́ ₃ •̯̀)</p>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,figma,gcp,aws" />
-    <img src="https://skillicons.dev/icons?i=flask,laravel,nodejs,bootstrap,tailwind,firebase,docker" />
-    <img src="https://skillicons.dev/icons?i=py,typescript,java,kotlin,mysql,jenkins" /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,figma,gcp,aws,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=flask,laravel,nodejs,bootstrap,tailwind,firebase,docker,angular,dotnet" />
+    <img src="https://skillicons.dev/icons?i=py,typescript,java,kotlin,mysql,jenkins,c" /><br>
 </div>
 
 <hr/>
