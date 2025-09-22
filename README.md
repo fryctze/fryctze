@@ -23,6 +23,24 @@
 <br/><br/><br/>
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 21 September 2024 - To: 22 September 2025
+
+Total Time: 776 hrs 0 mins
+
+PHP              194 hrs 23 mins >>>>>>-------------------   25.05 %
+Markdown         185 hrs 16 mins >>>>>>-------------------   23.87 %
+C#               151 hrs 7 mins  >>>>>--------------------   19.48 %
+Typescript       76 hrs 21 mins  >>-----------------------   09.84 %
+Unknown          44 hrs 50 mins  >------------------------   05.78 %
+Json             39 hrs 4 mins   >------------------------   05.03 %
+Blade            29 hrs 12 mins  >------------------------   03.76 %
+Html             13 hrs 14 mins  -------------------------   01.71 %
+JSX              10 hrs 31 mins  -------------------------   01.36 %
+SQL              8 hrs 24 mins   -------------------------   01.08 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
