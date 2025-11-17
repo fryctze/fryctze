@@ -25,17 +25,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 12 November 2024 - To: 14 November 2025
+From: 16 November 2024 - To: 17 November 2025
 
-Total Time: 987 hrs 43 mins
+Total Time: 988 hrs 21 mins
 
-Markdown         296 hrs 42 mins >>>>>>>>-----------------   30.04 %
-PHP              196 hrs 37 mins >>>>>--------------------   19.91 %
-C#               182 hrs 59 mins >>>>>--------------------   18.53 %
+Markdown         297 hrs 12 mins >>>>>>>>-----------------   30.07 %
+PHP              196 hrs 37 mins >>>>>--------------------   19.89 %
+C#               182 hrs 59 mins >>>>>--------------------   18.51 %
 Typescript       87 hrs 7 mins   >>-----------------------   08.82 %
 Unknown          58 hrs 53 mins  >------------------------   05.96 %
-Json             47 hrs 46 mins  >------------------------   04.84 %
-SQL              39 hrs 49 mins  >------------------------   04.03 %
+Json             47 hrs 46 mins  >------------------------   04.83 %
+SQL              39 hrs 55 mins  >------------------------   04.04 %
 Blade            27 hrs 52 mins  >------------------------   02.82 %
 Html             15 hrs 4 mins   -------------------------   01.52 %
 JSX              10 hrs 41 mins  -------------------------   01.08 %
