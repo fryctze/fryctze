@@ -6,21 +6,12 @@
 <p align="center"> Exaggerating (probably) ( •̯́ ₃ •̯̀)</p>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,figma,gcp,aws,visualstudio" />
-    <img src="https://skillicons.dev/icons?i=flask,laravel,nodejs,bootstrap,tailwind,firebase,docker,angular,dotnet" />
-    <img src="https://skillicons.dev/icons?i=py,typescript,java,kotlin,mysql,jenkins,c" /><br>
+    <img src="https://skillicons.dev/icons?i=idea,figma,gcp,aws,visualstudio,obsidian,linux" />
+    <img src="https://skillicons.dev/icons?i=flask,laravel,nodejs,bootstrap,docker,angular,dotnet" />
+    <img src="https://skillicons.dev/icons?i=py,typescript,postgres,jenkins,c#" /><br>
 </div>
 
 <hr/>
-
-<div align="center">
-    <h2>🐛 It's A Cute Little Worm, Not A Snake •⩊• 🐛</h2>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fryctze/fryctze/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fryctze/fryctze/output/github-contribution-grid-snake.svg" />
-        <img alt="A tiny worm nibbling on my contributions!" src="https://raw.githubusercontent.com/fryctze/fryctze/output/github-contribution-grid-snake.svg" />
-    </picture>
-<br/><br/><br/>
 
 <!--START_SECTION:waka-->
 
@@ -41,6 +32,15 @@ JSX              10 hrs 41 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="center">
+    <h2>🐛 It's A Cute Little Worm, Not A Snake •⩊• 🐛</h2>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fryctze/fryctze/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fryctze/fryctze/output/github-contribution-grid-snake.svg" />
+        <img alt="A tiny worm nibbling on my contributions!" src="https://raw.githubusercontent.com/fryctze/fryctze/output/github-contribution-grid-snake.svg" />
+    </picture>
+<br/><br/><br/>
 
 </div>
 <div align="right">
