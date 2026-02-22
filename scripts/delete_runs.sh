@@ -35,7 +35,7 @@ delete_runs() {
     done
 
     ((PAGE++))
-    sleep 1
+    sleep 2
   done
 }
 
