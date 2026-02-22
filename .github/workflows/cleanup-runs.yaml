@@ -4,7 +4,7 @@ on:
   workflow_dispatch: # This allows you to trigger it manually from the Actions tab
     inputs:
       workflow_id:
-        description: 'The filename of the workflow to clean up (e.g., wormy.yaml, waka-readme.yml, cleanup-runs.yaml)'
+        description: 'The filename of the workflow to clean up (e.g., wormy.yaml:83814171, waka-readme.yml:191057752, cleanup-runs.yaml:237145155)'
         required: true
         type: string
 
