@@ -19,7 +19,7 @@ delete_runs() {
     
     # Notice how we use ${GITHUB_TOKEN}, ${OWNER}, ${REPO}, and ${WORKFLOW_ID} directly
     RUNS=$(curl -s -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-      "https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/runs?per_page=${PER_PAGE}&page=${PAGE}" \
+      "https://api.github.com/repos/fryctze/fryctze/actions/workflows/${WORKFLOW_ID}/runs?per_page=100&page=${PAGE}" \
     | jq -r '.workflow_runs[]?.id')
 
     if [[ -z "$RUNS" ]]; then
