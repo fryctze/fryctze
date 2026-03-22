@@ -16,19 +16,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 February 2026 - To: 20 March 2026
+From: 20 February 2026 - To: 20 March 2026
 
-Total Time: 188 hrs 14 mins
+Total Time: 179 hrs 31 mins
 
-Markdown         74 hrs 27 mins        ██████████░░░░░░░░░░░░░░░   39.55 %
-SQL              61 hrs 44 mins        ████████▒░░░░░░░░░░░░░░░░   32.80 %
-C#               11 hrs 18 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-PHP              7 hrs 4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Json             5 hrs 38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Typescript       2 hrs 31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Blade            1 hrs 18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Bash             1 hrs 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-YAML             0 hrs 59 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Markdown         71 hrs 40 mins        ██████████░░░░░░░░░░░░░░░   39.93 %
+SQL              57 hrs 20 mins        ████████░░░░░░░░░░░░░░░░░   31.94 %
+C#               11 hrs 18 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+PHP              6 hrs 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Json             5 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Typescript       2 hrs 31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Blade            1 hrs 17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Bash             1 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+YAML             0 hrs 59 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
