@@ -16,16 +16,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 July 2026 - To: 28 August 2026
+From: 30 July 2026 - To: 29 August 2026
 
-Total Time: 156 hrs 32 mins
+Total Time: 152 hrs 26 mins
 
-Markdown     73 hrs 1 mins         ███████████▓░░░░░░░░░░░░░   46.64 %
-SQL          47 hrs 26 mins        ███████▓░░░░░░░░░░░░░░░░░   30.30 %
-C#           16 hrs 29 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-Json         3 hrs 23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Typescript   1 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-XML          0 hrs 52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Markdown     72 hrs 13 mins        ████████████░░░░░░░░░░░░░   47.38 %
+SQL          45 hrs 2 mins         ███████▒░░░░░░░░░░░░░░░░░   29.55 %
+C#           16 hrs 15 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+Json         2 hrs 44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Typescript   1 hrs 1 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+XML          0 hrs 52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 Javascript   0 hrs 8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 PHP          0 hrs 6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Bash         0 hrs 6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
